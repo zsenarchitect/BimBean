@@ -1,3 +1,5 @@
+"""run in venv"""
+
 import opencc
 
 def convert_simplified_to_traditional(simplified_texts):
