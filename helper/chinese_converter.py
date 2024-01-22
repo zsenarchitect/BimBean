@@ -1,6 +1,5 @@
-"""run in venv"""
-
-import opencc
+#! python3
+import opencc # pip install opencc-python-reimplemented
 
 def convert_simplified_to_traditional(simplified_texts):
     # Create an OpenCC converter for Simplified to Traditional conversion
