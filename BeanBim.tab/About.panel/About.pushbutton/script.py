@@ -1,6 +1,5 @@
-note = """Hello, thank you for using BimBean.
-This is the default tier of the BimBean service. For advanced service please contact Sen Zhang.
-"""
+from bimbean import about
 
 
-print (note)
+
+about.show_about()
