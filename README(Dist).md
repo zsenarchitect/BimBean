@@ -1,4 +1,0 @@
-# BimBean
-
-
-Welcome!
